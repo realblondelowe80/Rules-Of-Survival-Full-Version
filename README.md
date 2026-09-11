@@ -254,3 +254,6 @@ This repository serves as the official landing page for Rules of Survival. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rules of Survival today!**
+
+---
+**Last updated:** 2026-09-11 20:22:41 UTC
