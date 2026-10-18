@@ -256,4 +256,4 @@ This repository serves as the official landing page for Rules of Survival. The s
 **Get the most recent version of Rules of Survival today!**
 
 ---
-**Last updated:** 2026-10-18 20:00:27 UTC
+**Last updated:** 2026-10-18 22:43:04 UTC
